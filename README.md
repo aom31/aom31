@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @aom31
 - 👀 I’m interested in ... Develope and Technology
 - 🌱 I’m currently learning ...Java for backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 aom31/aom31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
