@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aom31
 - 👀 I’m interested in ... Develope and Technology
-- 🌱 I’m currently learning ...Java for backend
+- 🌱 I’m currently learning ...Java and Golang for backend
 
 <!---
 aom31/aom31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
