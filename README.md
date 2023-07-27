@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aom31
 - 👀 I’m interested in ... Develope and Technology
-- 🌱 I’m currently learning ...Java and Golang for backend
+- 🌱 I’m currently learning ... Golang for backend 
 
 simple my website created before gradute : https://portfoliothamakorn.netlify.app/
 
